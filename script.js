@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://pomodoro-springboot-backend-production.up.railway.app/api/pomodoro;
+const API_BASE_URL = 'https://pomodoro-springboot-backend-production.up.railway.app/api/pomodoro'; 
 
 const timeDisplay = document.getElementById('time-display');
 const pomodoroDurationSelect = document.getElementById('pomodoro-duration-select');
